@@ -1,0 +1,1 @@
+import{t as e}from"./request-CMp-Rt37.js";const t=t=>e.post(`/h5/user/register`,t),n=t=>e.post(`/h5/user/login`,t);export{t as n,n as t};
